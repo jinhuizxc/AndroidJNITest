@@ -1,0 +1,4 @@
+#Sun Dec 03 17:54:23 CST 2017
+base.0=/Users/apple/Desktop/AndroidJNITest/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.0=classes.dex
+file.0=/Users/apple/Desktop/AndroidJNITest/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
